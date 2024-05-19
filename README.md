@@ -22,7 +22,7 @@ It showcasees various job - ready courses in fields like Data Science , Software
 ## Features
 
 
-- Responsiveness :- users can use this website in thire Mobile phone , tabltes , computer and also use in thire laptop .
+- Responsiveness :- users can use this website in thire Mobile phone , tabletes , computer and also use in thire laptop .
 
 - interface :- user-friendly interface
  
@@ -30,9 +30,9 @@ It showcasees various job - ready courses in fields like Data Science , Software
 
 ## How to use 
 
-- open 'index.html' in your browser.
+- open index.html in your browser.
   
-- if you are open this web in to the laptop or compter devices then you can simply visit 'about.html' and 'contact.html' from the header .
+- if you are open this web in to the laptop or compter devices then you can simply visit about.html and contact.html from the header .
 
 - else you are open this web into the mobile or other devices then you can simply visit about.html and contact.html from the footer .
 
