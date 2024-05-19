@@ -9,6 +9,7 @@
 - How to use
 - Live links
 - Technology used
+- Lesson learned 
 
 
 ## Descripition
@@ -48,7 +49,11 @@ Users can use pw skills web using given links.
 - HTML
 - Tailwind css
 
-  
+
+## Lesson learned 
+
+in this tailwind project i have learned about the tailwind's diffrent diffrent property's . just like max and min width for the responsivness. flex , flex wrap , grid property that is really useful for me to the make a website user friendly that is give user friendly interface and also learned about the border property . and also in the tailwind hover property is give you to make a really good interface.
+
 
 
 
