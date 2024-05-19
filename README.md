@@ -34,7 +34,7 @@ It showcasees various job - ready courses in fields like Data Science , Software
   
 - if you are open this web in to the laptop or compter devices then you can simply visit 'about.html' and 'contact.html' from the header .
 
-- else you are open this web into the mobile or other devices then you can simply visit 'about.html' and 'contact.html' from the footer .
+- else you are open this web into the mobile or other devices then you can simply visit about.html and contact.html from the footer .
 
 ## Live links 
 
