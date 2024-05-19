@@ -1,6 +1,7 @@
 
 # pw skills project
 
+
 ## Table of content 
 
 - Descripition
@@ -12,11 +13,13 @@
 
 ## Descripition
 
+
 This project is a promotional website for PW skills , designed with HTML and Tailwind 
 CSS . 
 It showcasees various job - ready courses in fields like Data Science , Software Devlopment , Banking & Finance , and more .
 
 ## Features
+
 
 - Responsiveness :- users can use this website in thire Mobile phone , tabltes , computer and also use in thire laptop .
 
@@ -33,6 +36,7 @@ It showcasees various job - ready courses in fields like Data Science , Software
 - else you are open this web into the mobile or other devices then you can simply visit 'about.html' and 'contact.html' from the footer .
 
 ## Live links 
+
 
 Users can use pw skills web using given links.
 
